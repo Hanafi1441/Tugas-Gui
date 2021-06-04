@@ -1,4 +1,7 @@
 # Tugas-Gui
+![SS](https://user-images.githubusercontent.com/72422058/120764390-4c16ad00-c542-11eb-9531-757bf60fc11a.PNG)
+Analisis :
+Terdapat indentasi pada kode yang membuat kode saat di run error. Untuk mengatasinya maka harus diurutkan sesuai bloknya
 
 ![TugasGui](https://user-images.githubusercontent.com/72422058/116970112-9279b180-ace1-11eb-8ae0-a6f43ea212e9.PNG)
 
